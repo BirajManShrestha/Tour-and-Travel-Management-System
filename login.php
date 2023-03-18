@@ -16,7 +16,8 @@
         <div class="inside">
             <label>
                 <input type="checkbox" name="remember-me"> Remember me
-              </label>      
+              </label>
+      
               <a href="#" id="forgotPassword">Forgot password?</a><br>
         </div>
         <div class="btn">
@@ -25,7 +26,7 @@
         <div class="signup">
           Don't have an account?<a href="#">Create account</a><br>
         </div>
-      </form>
+        </form>
     </div>
   </div>
   <script src="login.js"></script>
